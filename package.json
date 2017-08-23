@@ -30,7 +30,7 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "html-to-text": "^3.3.0",
-    "juice": "^4.1.0",
+    "juice": "git+https://github.com/ycros/juice.git#caf1c68f351067a87b2a9b00c44c4d5c5e4b8ba5",
     "optimist": "^0.6.1",
     "swig-templates": "^2.0.2"
   }
